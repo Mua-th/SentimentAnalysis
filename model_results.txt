@@ -1,0 +1,10 @@
+Model Evaluation Results:
+
+Logistic Regression: Test set accuracy = 0.7985689505637468, Precision = 0.7988772475608528, Recall = 0.7985689505637468, F1 Score = 0.7986470586014245
+SVM: Test set accuracy = 0.7960706406418221, Precision = 0.796510178502366, Recall = 0.7959670424978318, F1 Score = 0.7960706406418221
+Decision Tree: Test set accuracy = 0.6708635564053662, Precision = 0.7062811311113634, Recall = 0.6845186470078057, F1 Score = 0.6708635564053662
+Model Evaluation Results:
+
+Logistic Regression: Test set accuracy = 0.7985689505637468, Precision = 0.7988772475608528, Recall = 0.7985689505637468, F1 Score = 0.7986470586014245
+SVM: Test set accuracy = 0.7960706406418221, Precision = 0.796510178502366, Recall = 0.7959670424978318, F1 Score = 0.7960706406418221
+Decision Tree: Test set accuracy = 0.6708635564053662, Precision = 0.7062811311113634, Recall = 0.6845186470078057, F1 Score = 0.6708635564053662
